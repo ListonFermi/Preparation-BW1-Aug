@@ -14,3 +14,15 @@ Completed : 3/93
 - Eval()
 
 Completed : 6/93
+
+### 09-Aug-2024, Friday
+
+- Global Execution Context
+- Event Loop
+- Microtask Queue
+- Blocking Code
+- NaN
+- Constructor
+- Prototypal Inheritance
+
+Completed : 13/93

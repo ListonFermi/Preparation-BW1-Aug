@@ -16,4 +16,35 @@ Single Threaded execution means, there only single thread is used for execution.
 Multi Thread execution means, more than one thread is used for execution.
 */
 
+// const fs = require('fs').promises;
 
+// async function readFileAsync() {
+//     console.log('Start');
+//     try {
+//         const data = await fs.readFile('./file.txt', 'utf8');
+//         console.log(data); // Non-blocking operation
+//     } catch (err) {
+//         console.error(err);
+//     }
+//     console.log('End');
+// }
+
+// readFileAsync();
+
+// console.log('hello\rhey')
+// console.log('   hello\rhey')
+
+// class Hello{
+    
+//     static a=10
+
+//     constructor(){
+//         this.b
+//     }
+    
+// }
+
+// console.log(Hello.a)
+
+const a= new String('aaa')
+const b= 'bbb'
