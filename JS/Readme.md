@@ -1,4 +1,4 @@
-> ### 06-Aug-2024, Tuesday
+### 06-Aug-2024, Tuesday
 
 ### Other Advanced Topics
 - Labels
@@ -7,7 +7,7 @@
 
 Completed : 3/93
 
-> ### 07-Aug-2024, Wednesday
+### 07-Aug-2024, Wednesday
 
 ### Other Advanced Topics
 - Reflect
@@ -26,3 +26,15 @@ Completed : 6/93
 - Prototypal Inheritance
 
 Completed : 13/93
+
+### 12-Aug-2024, Monday
+
+- Satically typed vs dynamically typed
+- typeof, isArray
+- type casting vs type coersion
+- falsy values
+- Closure (Application and Drawbacks)
+- Concurrency vs Parallelism
+- let, var, const Difference
+- Hoisting
+- TDZ (Temporal Dead Zone)

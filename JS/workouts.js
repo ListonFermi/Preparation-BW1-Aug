@@ -14,3 +14,4 @@ function secondLargest(a) {
 
 const a = [20, -2, 0, 8, 10];
 console.log(secondLargest(a));
+
